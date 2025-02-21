@@ -23,8 +23,8 @@ cd LimitingSimilarity_vs_Preadaptation
 3. Install dependencies:
 ```
 install.packages(c("ade4", "ape", "circlize", "dendextend", "devtools", "DHARMa", "dplyr", "emmeans", "geiger", "ggplot2", "HH", "interactions", "lme4", "lmerTest", "MEtBrewer", "NSR", "performance", "phangorn", "phylogram", "phytools", "radiant.data", "RColorBrewer", "readr", "request", "stringr", "Taxonstand", "taxize", "tibble", "tidyr", "tidyverse", "V.PhyloMaker"))
-
-4. Download data
+```
+4. Download data:
 
 - Plant cover data Experiment E014 https://doi.org/10.6073/pasta/f0a2a36d882d9c937f817b15553e69ee. 
 - Environmental data Experiment E014 https://cedarcreek.umn.edu/research/experiments/e014
