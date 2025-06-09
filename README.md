@@ -92,7 +92,7 @@ You can view a copy of this license at [http://creativecommons.org/licenses/by/4
 
 If you use this work, or any part of it, in your research or project, please provide appropriate credit to the authors and a link to the original source and the license. Here is a suggested format for citation:
 
-- Evidence for environmental filtering and limiting similarity depend on spatial scale and dissimilarity metrics. 2025. Perez-Navarro MA, Shepherd HER, Brian JI, Clark AT and Catford JA
+- Evidence for environmental filtering and limiting similarity depend on spatial scale and dissimilarity metrics. 2025. Perez-Navarro MA, Shepherd HER, Brian JI, Clark AT and Catford JA. Ecology.
 
 ### Previous version of the paper
 
